@@ -1,0 +1,2 @@
+# Requires: pseudo-loop
+# (Not available on PyPI)
